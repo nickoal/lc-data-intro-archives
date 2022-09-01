@@ -22,7 +22,7 @@ with it, and what tools you use to do that.
 
 - Start by getting into pairs.
 - Brainstorm all the different sorts of data you work with (examples might include metadata, 
-catalogue data, legacy data, data ouptut from DROID etc.)
+catalogue data, legacy data, qualitative data, collections-as-data, data ouptut from DROID etc.)
 - Your instructor will gather in these ideas and lead a discussion to establish that we are all 
 talking about roughly the same thing when we talk about data
 - Get into groups of 4-6. 
